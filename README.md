@@ -40,6 +40,9 @@ The following deliverables are expected from this project:
 4. **Matrices and Calculations:**
    - Generate matrices for relationships between outcomes and evaluation criteria.
    - Calculate weighted evaluation scores and success percentages.
+     
+5. **Success Tables**:
 
+For each student, calculate success rates for both course and program learning outcomes.
 
 
